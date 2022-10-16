@@ -97,7 +97,7 @@ let title = document.createElement('h1');
 title.style.display = "grid";
 title.style.justifyContent = "center";
 title.id = "title"; 
-title.innerHTML = "DISAPPERARING CIRCLES"; 
+title.innerHTML = "DISAPPEARING CIRCLES"; 
 title.style.color = "black";
 title.style.fontSize = '80px';
 
